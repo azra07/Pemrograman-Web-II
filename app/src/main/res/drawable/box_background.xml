@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Warna latar belakang di dalam kotak -->
+    <solid android:color="#08F0F0F0" />
+
+    <!-- Garis tepi (border) kotak -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" />
+
+    <!-- Membuat sudut kotak menjadi melengkung -->
+    <corners android:radius="10dp" />
+
+</shape>
